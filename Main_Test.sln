@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Main_Test", "Main_Test.vcproj", "{BC866622-DDD2-47F5-9956-7D637746D0C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|YC210SDK (ARMV4I) = Debug|YC210SDK (ARMV4I)
+		Release|Win32 = Release|Win32
+		Release|YC210SDK (ARMV4I) = Release|YC210SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Debug|YC210SDK (ARMV4I).ActiveCfg = Debug|YC210SDK (ARMV4I)
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Debug|YC210SDK (ARMV4I).Build.0 = Debug|YC210SDK (ARMV4I)
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Debug|YC210SDK (ARMV4I).Deploy.0 = Debug|YC210SDK (ARMV4I)
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Release|Win32.Build.0 = Release|Win32
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Release|YC210SDK (ARMV4I).ActiveCfg = Release|YC210SDK (ARMV4I)
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Release|YC210SDK (ARMV4I).Build.0 = Release|YC210SDK (ARMV4I)
+		{BC866622-DDD2-47F5-9956-7D637746D0C3}.Release|YC210SDK (ARMV4I).Deploy.0 = Release|YC210SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
